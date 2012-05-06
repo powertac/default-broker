@@ -10,7 +10,7 @@
 
   <artifactId>default-broker</artifactId>
   <name>Power TAC default broker</name>
-  <version>0.5.0</version>
+  <version>0.5.1-SNAPSHOT</version>
   <description>
     Simulates holder of all customer tariffs prior to market opening
   </description>
@@ -27,7 +27,7 @@
     <dependency>
       <groupId>org.powertac</groupId>
       <artifactId>server-interface</artifactId>
-      <version>0.5.0</version>
+      <version>0.5.1</version>
     </dependency>
   </dependencies>
   
