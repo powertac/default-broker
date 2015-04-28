@@ -4,13 +4,13 @@
   <parent>
     <artifactId>server-master</artifactId>
     <groupId>org.powertac</groupId>
-    <version>1.2.0</version>
+    <version>1.2.2</version>
     <relativePath />
   </parent>
 
   <artifactId>default-broker</artifactId>
   <name>Power TAC default broker</name>
-  <version>1.2.0</version>
+  <version>1.2.2-SNAPSHOT</version>
   <description>
     Simulates holder of all customer tariffs prior to market opening
   </description>
@@ -27,7 +27,7 @@
     <dependency>
       <groupId>org.powertac</groupId>
       <artifactId>server-interface</artifactId>
-      <version>1.2.0</version>
+      <version>1.2.2</version>
     </dependency>
   </dependencies>
   
